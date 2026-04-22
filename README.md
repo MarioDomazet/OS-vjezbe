@@ -1,0 +1,1 @@
+#Moj lokalni Git projekt
